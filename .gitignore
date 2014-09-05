@@ -5,6 +5,9 @@
 *.suo
 *.user
 *.sln.docstates
+*.csproj
+*.config
+*Properties*
 
 # Build results
 [Dd]ebug/
